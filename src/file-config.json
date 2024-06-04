@@ -1,0 +1,38 @@
+{
+    "name": "files",
+    "children": [
+      {
+        "name": "public",
+        "children": [
+          { "name": "vite.svg", "type": "file" }
+        ]
+      },
+      {
+        "name": "src",
+        "children": [
+          {
+            "name": "assets",
+            "children": [
+              { "name": "react.svg", "type": "file" }
+            ]
+          },
+          {
+            "name": "test",
+            "children": [
+              { "name": "App.css", "type": "file" },
+              { "name": "App.js", "type": "file" },
+              { "name": "index.css", "type": "file" },
+              { "name": "main.js", "type": "file" },
+              { "name": "vite-env.d.ts", "type": "file" }
+            ]
+          },
+          { "name": "index.html", "type": "file" },
+          { "name": "package-lock.json", "type": "file" }
+        ]
+      },
+      { "name": ".gitignore", "type": "file" },
+      { "name": "index.html", "type": "file" },
+      { "name": "package-lock.json", "type": "file" }
+    ]
+  }
+  
